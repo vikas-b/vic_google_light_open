@@ -1,0 +1,9 @@
+{
+	"name":"vic/vic_google_light_open",
+	"license": "MIT",
+    "type": "project",
+    "description": "Just google sign sign on with Open ID",
+    "autoload": {
+        "files": ["lib/VIC/GOOGLE/LIGHT/OPEN/LightOpenID.php"]
+    }
+}
